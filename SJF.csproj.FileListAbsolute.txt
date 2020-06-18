@@ -1,0 +1,18 @@
+D:\SJF\SJF\bin\Debug\SJF.exe.config
+D:\SJF\SJF\obj\Debug\SJF.Properties.Resources.resources
+D:\SJF\SJF\obj\Debug\SJF.csproj.GenerateResource.Cache
+D:\SJF\SJF\bin\Debug\SJF.exe
+D:\SJF\SJF\bin\Debug\SJF.pdb
+D:\SJF\SJF\obj\Debug\SJF.Form1.resources
+D:\SJF\SJF\obj\Debug\SJF.exe
+D:\SJF\SJF\obj\Debug\SJF.pdb
+D:\SJF\SJF\obj\Debug\SJF.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\bin\Debug\SJF.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\obj\Debug\SJF.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\obj\Debug\SJF.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\bin\Debug\SJF.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\bin\Debug\SJF.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\obj\Debug\SJF.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\obj\Debug\SJF.Form1.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\obj\Debug\SJF.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\SJF\SJF\obj\Debug\SJF.csproj.GenerateResource.Cache
